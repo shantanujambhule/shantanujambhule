@@ -7,13 +7,40 @@
 
 ### 👨‍💻 About Me
 
-- 👀 I’m interested in **Web Cloning**, **Creative Frontend Development**, **Scroll Animations**, and **Immersive Web Experiences**
-- 🌱 I’m currently learning **Three.js**, **Framer Motion**, and diving deeper into **WebGL** + **GSAP** magic ✨
-- 💞️ I’m looking to collaborate on **Next.js UI projects**, **portfolio templates**, or anything that makes the web cooler
-- 📫 Reach me at:  
-  - 📩 Email: `www.shantanujambhule321best@gmail.com`  
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/shantanu-jambhule-95ab6b278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )  
-  - 🌍 [Portfolio (Coming Soon)](#)
+## 👋 About Me
+
+Hi, I'm **Shantanu Jambhule** — a passionate **Full Stack Web Developer** based in India.
+
+- 🌱 I’m currently**NEXT.JS** && **learning backend development** with **Node.js**,
+  **Express**, and **MongoDB**
+- 🧠 Comfortable with **React.js**, **Tailwind CSS**, and building responsive frontends
+- 🚀 Exploring **MERN stack** projects to level up my full-stack skills
+- 💡 I enjoy building clean UIs and turning ideas into web applications
+- 📫 Reach me at: [shantanujambhule@gmail.com](mailto:shantanujambhule@gmail.com)
+- 🌐 Portfolio: _coming soon_ 😉
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+`React.js` `HTML` `CSS` `Tailwind` `JavaScript`
+
+**Currently Learning (Backend)**  
+`Node.js` `Express` `MongoDB` `REST API` `JWT Auth`
+
+---
+
+## 📈 GitHub Stats
+
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanujambhule&show_icons=true&theme=default)
+
+---
+
+## 🧩 Fun Fact
+
+> I believe in **learning by building**, and I'm always up for challenging myself with new projects!
+
 
 - 😄 Pronouns: **He**
 - ⚡ Fun fact: I love replicating [micro-part] from high-end websites from [Awards and Dribble] just for fun—and to challenge my dev brain 🧠
