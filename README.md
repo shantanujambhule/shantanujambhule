@@ -7,11 +7,9 @@
 
 ### 👨‍💻 About Me
 
-## 👋 About Me
-
 Hi, I'm **Shantanu Jambhule** — a passionate **Full Stack Web Developer** based in India.
 
-- 🌱 I’m currently**NEXT.JS** && **learning backend development** with **Node.js**,
+- 🌱 I’m currently **NEXT.JS**  &&  **learning backend development** with **Node.js**,
   **Express**, and **MongoDB**
 - 🧠 Comfortable with **React.js**, **Tailwind CSS**, and building responsive frontends
 - 🚀 Exploring **MERN stack** projects to level up my full-stack skills
